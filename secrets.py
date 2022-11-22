@@ -1,0 +1,2 @@
+username = 'usernameXX'
+password = 'passwordXX'
