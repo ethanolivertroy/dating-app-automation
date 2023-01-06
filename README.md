@@ -1,4 +1,8 @@
-# tinderbot
+# Automate Your Swipes on Tinder or Bumble using Python
+
+![Copy of Copy of Copy of Flaws (4 × 3 in) (2)](https://user-images.githubusercontent.com/63926014/211109980-294b2a0f-f7c8-4530-b4d8-3071639b20d7.png)
+
+
 tinder bot to practice
 
 - Mkdir tinderbot
